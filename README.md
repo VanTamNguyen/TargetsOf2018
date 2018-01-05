@@ -6,7 +6,7 @@
 
 * [ ] Computer Science Curriculum
     * [ ] Computer Networking (By reading the book Networking Top Down Approach, Kurose and Ross)
-    * [ ] Data Structures and Algorithms
+    * [ ] Data Structures and Algorithms (Study the course Algorithms by Prof Robert Sedgewick, Princeton University)
     * [ ] Databases
     * [ ] Crytography I
     
