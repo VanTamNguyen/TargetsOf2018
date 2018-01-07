@@ -14,3 +14,4 @@
 
 * [ ] Morning Person
 
+* [ ] 100 Pushups Daily
