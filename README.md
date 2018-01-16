@@ -1,6 +1,6 @@
 # TargetsOf2018
 
-* [ ] Join >1K USD Dev Club
+* [ ] Join >=1K USD Dev Club
 
 * [ ] Concentration Practice
     * [ ] Pomodoro Technique
