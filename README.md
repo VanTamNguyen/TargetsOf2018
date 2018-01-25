@@ -3,6 +3,7 @@
 * [ ] Join >=1K USD Dev Club
 
 * [ ] Concentration Practice
+    
     * [ ] Meditation 
     * [ ] Pomodoro Technique
 
