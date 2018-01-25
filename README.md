@@ -3,7 +3,8 @@
 * [ ] Join >=1K USD Dev Club
 
 * [ ] Concentration Practice
-    * [ ] Pomodoro Technique
+    * [ ] Meditation 
+    * [ ] Pomodoro Technique
 
 * [ ] Computer Science Curriculum
     * [ ] Computer Networking (By reading the book Networking Top Down Approach, Kurose and Ross)
