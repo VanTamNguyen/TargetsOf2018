@@ -5,6 +5,8 @@
 * [ ] Concentration Practice
     * [ ] Meditation
     * [ ] Pomodoro Technique
+    * [ ] Very little social network consuming
+    * [ ] Very little web surfing
 
 * [ ] Computer Science Curriculum
     * [ ] Computer Networking (By reading the book Networking Top Down Approach, Kurose and Ross)
