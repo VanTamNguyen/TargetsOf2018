@@ -1,21 +1,21 @@
 # TargetsOf2018
 
-* [ ] Join >=1K USD Dev Club [Trying to get an official contract]
+* [ ] Join >=1K USD Dev Club [_Trying to get an official contract_]
 
 * [ ] Concentration Practice
-    * [ ] Meditation [Trying]
-    * [ ] Pomodoro Technique [Trying]
-    * [ ] Very little social network consuming [Trying]
-    * [ ] Very little web surfing [Trying]
+    * [ ] Meditation [_Trying_]
+    * [ ] Pomodoro Technique [_Trying_]
+    * [ ] Very little social network consuming [_Trying_]
+    * [ ] Very little web surfing [_Trying_]
 
 * [ ] Computer Science Curriculum
-    * [ ] Computer Networking (By reading the book Networking Top Down Approach, Kurose and Ross) [30%]
-    * [ ] Data Structures and Algorithms (Course Algorithms by Prof Robert Sedgewick, Princeton University) [Not started]
-    * [ ] Databases [Not started]
-    * [ ] Crytography I [Not started]
+    * [ ] Computer Networking (By reading the book Networking Top Down Approach, Kurose and Ross) [_30%_]
+    * [ ] Data Structures and Algorithms (Course Algorithms by Prof Robert Sedgewick) [_Not started_]
+    * [ ] Databases [_Not started_]
+    * [ ] Crytography I [_Not started_]
     
-* [ ] Master of Java (By studying the OCA/OCP book, notes and code in this [repository](https://github.com/VanTamNguyen/LearningJava)) [15%]
+* [ ] Master of Java (By studying the OCA/OCP book, notes and code in this [repository](https://github.com/VanTamNguyen/LearningJava)) [_15%_]
 
-* [ ] Morning Person [Trying]
+* [ ] Morning Person [_Trying_]
 
-* [ ] 100 Pushups Daily [Trying]
+* [ ] 100 Pushups Daily [_Trying_]
