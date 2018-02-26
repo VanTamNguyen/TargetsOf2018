@@ -1,6 +1,7 @@
 # TargetsOf2018
 
-* [ ] Join >=1K USD Dev Club [_Trying to get an official contract_]<br/>
+* [ ] Join >=1K USD Dev Club [_Trying to get an official contract_]
+<br/>
 
 * [ ] Concentration Practice
     * [ ] Meditation [_Trying_]
