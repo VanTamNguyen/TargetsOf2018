@@ -13,8 +13,6 @@
 * [ ] Computer Science Curriculum
     * [ ] Computer Networking (By reading the book Networking Top Down Approach, Kurose and Ross) [_30%_]
     * [ ] Data Structures and Algorithms (Course Algorithms by Prof Robert Sedgewick) [_Not started_]
-    * [ ] Databases [_Not started_]
-    * [ ] Crytography I [_Not started_]
 <br/>
 
 * [ ] Master of Java (By studying the OCA/OCP book, notes and code in this [repository](https://github.com/VanTamNguyen/LearningJava)) [_15%_]
