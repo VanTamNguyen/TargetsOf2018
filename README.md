@@ -5,7 +5,6 @@
 
 * [ ] Concentration Practice
     * [ ] Meditation [_Trying_]
-    * [ ] Pomodoro Technique [_Trying_]
     * [ ] Very little social network consuming [_Trying_]
     * [ ] Very little web surfing [_Trying_]
 <br/>
