@@ -17,9 +17,6 @@
 * [ ] Master of Java (By studying the OCA/OCP book, notes and code in this [repository](https://github.com/VanTamNguyen/LearningJava)) [_15%_]
 <br/>
 
-* [ ] Master of C#
-<br/>
-
 * [ ] Morning Person [_Trying_]
 <br/>
 
