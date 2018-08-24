@@ -1,6 +1,6 @@
 # TargetsOf2018
 
-* [X] Join >=1K USD Dev Club
+* [X] Join >=1K USD Dev Club (**I joined a very big and cool company**)
 <br/>
 
 * [ ] Concentration Practice
@@ -17,7 +17,7 @@
 * [ ] Master of Java (By studying the OCA/OCP book, notes and code in this [repository](https://github.com/VanTamNguyen/LearningJava)) [_15%_]
 <br/>
 
-* [ ] Morning Person [_Trying_]
+* [ ] Morning Person [_Trying_] (very close to this target, still get up late sometimes)
 <br/>
 
-* [ ] 100 Pushups Daily [_Trying_]
+* [X] 100 Pushups Daily [_Trying_]
