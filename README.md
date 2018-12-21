@@ -17,7 +17,7 @@
 * [ ] Master of Java (By studying the OCA/OCP book, notes and code in this [repository](https://github.com/VanTamNguyen/LearningJava)) [_15%_]
 <br/>
 
-* [ ] Morning Person [_Trying_] (very close to this target, still get up late sometimes)
+* [X] Morning Person [_Trying_] (very close to this target, still get up late sometimes)
 <br/>
 
-* [X] 100 Pushups Daily [_Trying_]
+* [ ] 100 Pushups Daily [_Trying_]
